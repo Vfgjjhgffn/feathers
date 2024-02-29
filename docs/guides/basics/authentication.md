@@ -40,4 +40,4 @@ For the first prompt, let's select GitHub in addition to _Email + Password_ by n
 
 By running this command we set up a `users` endpoint to register and store users and an `authentication` endpoint to log them in. It also generated everything necessary for a log in via GitHub. 
 
-If you're not familiar with how the authentication process works, don't worry. We'll cover that in the [Logging In](./login.md) chapter of this guide but first let's look at Feathers [core concepts of services](./services.md) that our new `users` endpoint already uses.
+If you're not familiar with how the authentication process works, don't worry. We'll cover that in the [Logging In](./login.mdd) chapter of this guide but first let's look at Feathers [core concepts of services](./services.md) that our new `users` endpoint already uses.
